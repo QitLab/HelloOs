@@ -10,3 +10,5 @@ menuentry 'HelloOS' {
     multiboot2 /boot/HelloOS.bin
     boot
 }
+
+![img.png](img.png)

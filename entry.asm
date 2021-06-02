@@ -1,5 +1,6 @@
 ;彭东 @ 2021.01.09
 
+;供grub调用的引导程序，用于设置CPU工作模式与工作环境，并调用C语言编写的main函数
 MBT_HDR_FLAGS	EQU 0x00010003
 MBT_HDR_MAGIC	EQU 0x1BADB002 ;多引导协议头魔数
 MBT_HDR2_MAGIC	EQU 0xe85250d6 ;第二版多引导协议头魔数

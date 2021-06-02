@@ -1,5 +1,5 @@
 /*彭东 @ 2021.01.09*/
-
+/*链接器脚本，用于指导链接过程，设定不同程序段的布局*/
 ENTRY(_start)
 OUTPUT_ARCH(i386)
 OUTPUT_FORMAT(elf32-i386)

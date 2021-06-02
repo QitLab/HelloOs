@@ -1,5 +1,5 @@
 #彭东 @ 2021.01.09
-
+#编译脚本，用于指导编译过程
 MAKEFLAGS = -sR
 MKDIR = mkdir
 RMDIR = rmdir
